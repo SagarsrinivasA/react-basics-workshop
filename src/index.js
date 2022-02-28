@@ -5,6 +5,7 @@ import ReactDom from "react-dom";
 // // **Lecture = 1**
 
 // // capitalise the first letter of Greeting
+// Component Name always should start from Capital letter
 // function Greeting() {
 //   return <h4>this is roopam and this is my first component.</h4>;
 // }
